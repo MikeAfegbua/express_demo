@@ -12,7 +12,12 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "config": "^4.1.1",
+    "debug": "^4.4.3",
     "express": "^5.1.0",
-    "joi": "^18.0.1"
+    "helmet": "^8.1.0",
+    "joi": "^18.0.1",
+    "morgan": "^1.10.1",
+    "pug": "^3.0.3"
   }
 }
