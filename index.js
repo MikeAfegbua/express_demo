@@ -13,7 +13,7 @@ const dbDebugger = debug('app:db');
 
 const app = express();
 
-// console.log(`NODE_ENV: ${process.env.NODE_ENV}`);
+console.log(`NODE_ENV: ${process.env.NODE_ENV}`);
 
 
 app.set('view engine', 'pug');

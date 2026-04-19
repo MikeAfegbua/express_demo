@@ -1,3 +1,7 @@
 {
-    "name": "express_demo"
+    "name": "express_demo",
+    "mail": {
+        "host": "mail-server",
+        "password": ""
+    }
 }
